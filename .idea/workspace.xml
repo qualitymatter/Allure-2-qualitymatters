@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c61b5f7-b56b-4b74-818c-d498331b529e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0302ad1e-d0a3-4ef0-9354-97e276862898-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/035103e9-eee1-4198-99ba-2d322772975e-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/08842919-6168-4e33-a12d-673c0d30fe04-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/09883ad4-ed94-4c54-935b-33268977f51e-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0db6edef-eeab-41b7-8469-0b52c5bfeea5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0edf0b6f-4b32-48c6-b65a-5668f901c562-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/11b8da17-7287-4d82-9d3c-2b843f692555-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/16144fea-52f3-4ca5-b650-673dffa7f711-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1b56c1e3-4217-423f-8c2d-117d510ba6e6-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2eba0c80-a2bd-4e5b-b2aa-81546e98030a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3558feb2-bcf5-49fd-8ef8-9fe89d49631c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3f7f8b7c-a98a-4425-ace2-596884bf1e59-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/408f9243-6e62-4882-9f5e-517de1635aaa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/449f5dfe-ac2e-4997-b4af-8d48846a6e3a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4ba99f16-92c1-418e-bb21-83b41e248c8b-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4c2b6266-4f26-4f71-adf3-3c3d022bbacf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4cf2f4ff-5bd1-4019-821a-4c77d6ccd87c-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4f718a18-1816-4e6f-b6fd-6adc453040f8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/53edf759-03f0-4569-8220-b993f83864ea-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/57967ce2-0bc9-42b1-a785-3cab95da5fdf-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5ba79c02-990a-4173-8939-8aad90d76303-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/69362fb0-b402-431b-b081-1267cb5b1434-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6966ac63-0124-41e6-9927-014cdf6e3535-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6c689662-e7d3-4a0d-8f7a-52ed6b6bb385-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/728438cf-346a-4081-8c73-16313512adf3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/76010872-7cf2-4a2c-bb37-51d4587dc95a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7a06c75f-3ffe-4584-af98-68df5c7af65b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7d4b8d2b-9e27-4297-ae85-450fd4487619-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/831f7337-b05f-4092-a590-056326f18cb5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/85973abf-85de-427a-b525-d68f260d9adb-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/893312ba-caf5-4090-9e19-854935c8a531-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8cafd522-376c-4605-ada7-a40cb2eb1133-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/94df64a7-b57e-471b-a93b-11bec33af61d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9cde3443-4962-4c57-97ca-87dcfce794e9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9d350934-f345-42fe-80ae-3f8aeae17048-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a9d5061b-a421-4652-a6ba-6ba5616768aa-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ad4a3f13-1644-40be-9807-8915edbeaf21-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ae80852d-d893-4abf-8acc-6b320eb834d5-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b009c6b3-67bd-4073-b769-52813968508c-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b7493413-57d7-45fc-ad9e-32b8050516bc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c586c3e1-0e0d-47dd-a0fc-14e59e1eb765-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cd5c80fa-3dc6-4f6c-9a40-071f5e72e022-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d27d3e3b-58f5-4d2c-afff-f7acafcd2d5f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/da4d0f8f-abc3-4058-b4cc-7e6f111fc7ec-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/da6f26f8-00d7-4cd1-be2e-a8ee813b113e-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dde2e6da-658d-4a89-b90a-12cddab98456-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e0b3708f-2423-49ea-9b0a-0ecaa5d9c8e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e384bd49-d822-4036-8d0f-b624a5ae03e1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e49e3296-1a7d-4f02-80de-65b77242eef1-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e791cff2-8665-4ed4-965e-083c4df1a738-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e94f1033-99df-482a-8902-ec3b66019782-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e9fbb31b-a736-4263-81d4-f7b4b6f2eac5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/environment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f135f9bf-5118-499a-849a-abe19507592f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f5f7fa58-3de7-47ed-b5cc-882322c33330-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fbd47c45-616a-4872-a449-c2b951d6f534-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fc5f6983-fe6d-4f8f-82e0-d506588148ea-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AllureFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/ScreenShotCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helpers/UrlProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MyAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/TopHeaderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/junit-platform.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/base/CustomTestWatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/base/Pages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/base/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/base/WebDriverThreadLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/META-INF/services/io.qameta.allure.listener.LifecycleListener" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6da4c444-1e25-46c3-b3ba-af1cd189e116" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hg2wP9AQKipUF06p10oyuEgXqb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Development\prywatne_repo\AutomationPractice\src\test\resources\META-INF" />
+      <recent name="C:\Development\prywatne_repo\AutomationPractice\src\test\resources\services" />
+      <recent name="C:\Development\prywatne_repo\AutomationPractice\src\test\resources\META-INF\services\services" />
+      <recent name="C:\Development\prywatne_repo\AutomationPractice\src\main\resources" />
+      <recent name="C:\Development\prywatne_repo\AutomationPractice\allure-reports" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginTests">
+    <configuration name="LoginTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.user_shouldBeAbleToLogin_whenPutValidData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
+      <option name="METHOD_NAME" value="user_shouldBeAbleToLogin_whenPutValidData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.user_shouldBeNotAbleToLogin_WhenPutIncorrectData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
+      <option name="METHOD_NAME" value="user_shouldBeNotAbleToLogin_WhenPutIncorrectData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTests" />
+        <item itemvalue="JUnit.LoginTests.user_shouldBeNotAbleToLogin_WhenPutIncorrectData" />
+        <item itemvalue="JUnit.LoginTests.user_shouldBeAbleToLogin_whenPutValidData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c61b5f7-b56b-4b74-818c-d498331b529e" name="Changes" comment="" />
+      <created>1668692643658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668692643658</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
